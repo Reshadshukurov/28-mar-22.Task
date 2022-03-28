@@ -1,0 +1,7 @@
+C:\Users\comp\source\repos\28-mar-22.task\28-mar-22.task\bin\Debug\28-mar-22.task.exe.config
+C:\Users\comp\source\repos\28-mar-22.task\28-mar-22.task\bin\Debug\28-mar-22.task.exe
+C:\Users\comp\source\repos\28-mar-22.task\28-mar-22.task\bin\Debug\28-mar-22.task.pdb
+C:\Users\comp\source\repos\28-mar-22.task\28-mar-22.task\obj\Debug\28-mar-22.task.csproj.AssemblyReference.cache
+C:\Users\comp\source\repos\28-mar-22.task\28-mar-22.task\obj\Debug\28-mar-22.task.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\28-mar-22.task\28-mar-22.task\obj\Debug\28-mar-22.task.exe
+C:\Users\comp\source\repos\28-mar-22.task\28-mar-22.task\obj\Debug\28-mar-22.task.pdb
